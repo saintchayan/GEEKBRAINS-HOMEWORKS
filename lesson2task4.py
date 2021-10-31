@@ -5,4 +5,4 @@
 print('Вводите выражение или фразу')
 a = input().split()
 for ind, i in enumerate(a):
-    print(ind, i)
+    print(ind, i[:10])
