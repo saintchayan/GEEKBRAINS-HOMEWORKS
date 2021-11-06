@@ -1,5 +1,4 @@
 # task1
-a = list(input())
-print(type(a))
+print([el % 20 == 0 or el % 21 == 0 for el in range(20, 241)])
 
 
