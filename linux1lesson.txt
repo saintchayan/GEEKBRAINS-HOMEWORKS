@@ -1,0 +1,8 @@
+﻿
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+chayan@chayan-VirtualBox:~$ uname
+Linux
+chayan@chayan-VirtualBox:~$ uname -a
+Linux chayan-VirtualBox 5.13.0-27-generic #29~20.04.1-Ubuntu SMP Fri Jan 14 00:32:30 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
